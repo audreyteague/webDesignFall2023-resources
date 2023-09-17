@@ -1,0 +1,11 @@
+what is an advantage to using a text editor? 
+    Text editors allow for for you to understand what is going on with
+    the code that we are producing. The preview allows for information
+    to be convayed correctly and if not than changed. It also allows for 
+    removal of complexity and speeding the coding process up. 
+
+Is there an advantage of using a relative vs an absolute URL?
+    Absolute URLs allow for more information to be shared versus relative
+    thus impacting the ease of directing where the user would need to be
+    taken. Realtives are often shorter due to the nature of keeping 
+    the url compact therefore may produce some positives for simplicity.
